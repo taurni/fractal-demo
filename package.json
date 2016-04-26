@@ -1,0 +1,9 @@
+{
+  "name": "fractal-demo",
+  "version": "0.1.0",
+  "dependencies": {
+    "@frctl/fractal": "^0.10.4",
+    "marko": "^3.0.7",
+    "marko-adapter": "^0.1.0"
+  }
+}
