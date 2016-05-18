@@ -26,7 +26,7 @@ fractal.set('docs.path', 'docs');
 fractal.set('plugins.web.static.path', 'public');
 
 
-fractal.engine('marko','marko-adapter');
-fractal.set('components.engine', 'marko');
+fractal.engine('Marko','marko-adapter');
+fractal.set('components.engine', 'Marko');
 fractal.set('components.ext', '.marko');
 
