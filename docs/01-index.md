@@ -8,3 +8,7 @@ Testing Fractal with Marko js.
 ```html
 <include("../example/example.marko",data)/>
 ```
+render inner html
+```html
+<invoke data.renderBody(out)/>
+```
